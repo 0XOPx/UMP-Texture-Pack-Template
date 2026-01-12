@@ -1,0 +1,10 @@
+# You can change this to 1 for 1.7.0+
+format: 0
+name: Version (e.g 1.0, 8.0, 1.3b1)
+author: Your Name
+description: Placeholder
+# For the bar on the left while it's on
+signature: 
+# Recommended
+keyboard:
+  whiteKeyGap: 1
